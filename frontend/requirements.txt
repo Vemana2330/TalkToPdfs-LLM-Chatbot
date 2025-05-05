@@ -1,0 +1,6 @@
+streamlit
+requests
+boto3
+python-dotenv
+pycryptodome
+litellm
